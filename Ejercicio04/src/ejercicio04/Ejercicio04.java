@@ -2,19 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package ejercicio03;
+package ejercicio04;
 
 /**
  *
  * @author UTPL
  */
-public class Ejercicio03 {
+public class Ejercicio04 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Resolucion del problema
+        // TODO code application logic here
+                // Resolucion del problema
         int var1 = 20;
         int var2 = 1;
         int var3 = 3;
@@ -22,7 +23,6 @@ public class Ejercicio03 {
         int var5 = 3;
         
      System.out.println(var1 / (var2 + var3)+ var4 >= var5);
-     
     }
     
 }
